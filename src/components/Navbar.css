@@ -1,0 +1,24 @@
+.nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: .5em;
+    text-decoration: none;
+}
+
+.top {
+
+    padding: .2em .5em .3em;
+    text-decoration: none;
+ 
+    /* background: var(--tag-bg);
+    color: var(--text-color); */
+    background: rgb(47,45,57);
+    background: radial-gradient(circle, rgba(47,45,57,1) 0%, rgba(48,46,58,1) 100%);
+    font-weight: 600;
+    margin: .25em .1em;
+    font-size: 1.5em;
+    border-radius: 15px;
+    color: #ffffff;
+    
+}

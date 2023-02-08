@@ -1,0 +1,17 @@
+.home-container {
+    font-family: "Roboto", sans-serif;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    
+}
+
+.card-stuff {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #151419;
+}
+
