@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/projectport/static/css/main.c622058b.css",
-    "main.js": "/projectport/static/js/main.94b825bd.js",
+    "main.js": "/projectport/static/js/main.9f8eb3d1.js",
     "static/js/787.37c703d8.chunk.js": "/projectport/static/js/787.37c703d8.chunk.js",
     "static/media/Cnc.jpg": "/projectport/static/media/Cnc.87ae99dea18c97faa6bb.jpg",
     "static/media/Car grill.jpg": "/projectport/static/media/Car grill.0138218ee68eb369307f.jpg",
@@ -14,11 +14,11 @@
     "static/media/Coompressor.jpg": "/projectport/static/media/Coompressor.5a481b662a2c7d09365f.jpg",
     "index.html": "/projectport/index.html",
     "main.c622058b.css.map": "/projectport/static/css/main.c622058b.css.map",
-    "main.94b825bd.js.map": "/projectport/static/js/main.94b825bd.js.map",
+    "main.9f8eb3d1.js.map": "/projectport/static/js/main.9f8eb3d1.js.map",
     "787.37c703d8.chunk.js.map": "/projectport/static/js/787.37c703d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c622058b.css",
-    "static/js/main.94b825bd.js"
+    "static/js/main.9f8eb3d1.js"
   ]
 }
