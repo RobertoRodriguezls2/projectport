@@ -1,5 +1,5 @@
 
-import { BrowserRouter,Route, Routes} from "react-router-dom"
+import { BrowserRouter,Route, Routes, HashRouter} from "react-router-dom"
 import './App.css';
 import Grill from "./pages/Grill";
 import Homepage from './pages/Homepage';
@@ -18,7 +18,7 @@ import Lights from "./pages/Lights";
 function App() {
   return (
     <>
-    <BrowserRouter basename="https://robertorodriguezls2.github.io/projectport/">
+    <HashRouter>
     <UserAuthContextProvider>
 
     
@@ -39,9 +39,9 @@ function App() {
     
     </UserAuthContextProvider>
     
-    </BrowserRouter>
+    </HashRouter>
     
-    
+
     
     </>
   );
