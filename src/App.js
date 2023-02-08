@@ -18,12 +18,12 @@ import Lights from "./pages/Lights";
 function App() {
   return (
     <>
-    <BrowserRouter>
+    <BrowserRouter basename="/">
     <UserAuthContextProvider>
 
     
     <Routes>
-      <Route  path='/' element={<Homepage/>} />
+      <Route  exact={true} path='/' element={<Homepage/>} />
       <Route  path='/grill' element={<Grill/>} />
       <Route  path='/gauge' element={<Gauge/>} />
       <Route  path='/cnc' element={<Cnc/>} />
