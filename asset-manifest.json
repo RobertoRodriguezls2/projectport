@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c622058b.css",
+    "main.js": "/static/js/main.5801489e.js",
+    "static/js/787.37c703d8.chunk.js": "/static/js/787.37c703d8.chunk.js",
+    "static/media/Cnc.jpg": "/static/media/Cnc.87ae99dea18c97faa6bb.jpg",
+    "static/media/Car grill.jpg": "/static/media/Car grill.0138218ee68eb369307f.jpg",
+    "static/media/Car mount.jpg": "/static/media/Car mount.e070ffcf6eb1ca8ac66c.jpg",
+    "static/media/Cnc acc.jpg": "/static/media/Cnc acc.3dd439e80406b514eed6.jpg",
+    "static/media/Laser.jpg": "/static/media/Laser.4863e20e7a0eb138b171.jpg",
+    "static/media/G8 Cluster.jpg": "/static/media/G8 Cluster.e0640a3838ab57cc4f0d.jpg",
+    "static/media/rgb.jpg": "/static/media/rgb.998973ffaaf542dd0d94.jpg",
+    "static/media/shift.jpg": "/static/media/shift.62e9161d83813b00f35a.jpg",
+    "static/media/Coompressor.jpg": "/static/media/Coompressor.5a481b662a2c7d09365f.jpg",
+    "index.html": "/index.html",
+    "main.c622058b.css.map": "/static/css/main.c622058b.css.map",
+    "main.5801489e.js.map": "/static/js/main.5801489e.js.map",
+    "787.37c703d8.chunk.js.map": "/static/js/787.37c703d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c622058b.css",
+    "static/js/main.5801489e.js"
+  ]
+}
