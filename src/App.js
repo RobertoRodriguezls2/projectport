@@ -18,7 +18,7 @@ import Lights from "./pages/Lights";
 function App() {
   return (
     <>
-    <HashRouter>
+    <HashRouter basename="/">
     <UserAuthContextProvider>
 
     
