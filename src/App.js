@@ -18,7 +18,7 @@ import Lights from "./pages/Lights";
 function App() {
   return (
     <>
-    <BrowserRouter basename="/">
+    <BrowserRouter basename="https://robertorodriguezls2.github.io/projectport/">
     <UserAuthContextProvider>
 
     
