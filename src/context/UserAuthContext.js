@@ -7,12 +7,7 @@ import {
   GoogleAuthProvider,
   signInWithPopup,
 } from "firebase/auth";
-import {
-    getStorage,
-    ref,
-    getDownloadURL,
-    list, listAll
-} from 'firebase/storage';
+
 
 import { auth } from "../firebase-config";
 

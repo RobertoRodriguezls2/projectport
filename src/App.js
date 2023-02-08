@@ -1,5 +1,5 @@
 
-import { BrowserRouter,Route, Routes, HashRouter} from "react-router-dom"
+import { Route, Routes, HashRouter} from "react-router-dom"
 import './App.css';
 import Grill from "./pages/Grill";
 import Homepage from './pages/Homepage';
