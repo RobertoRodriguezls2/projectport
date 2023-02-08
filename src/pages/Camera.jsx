@@ -81,7 +81,7 @@ export default function Camera() {
                             Fusion 360
                         </li>
                         <li>
-                            3/4inch Drill Bit
+                            3/4 inch Drill Bit
                         </li>
                        
 
