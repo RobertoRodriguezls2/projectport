@@ -1,4 +1,4 @@
-import React from 'react'
+
 import Card from '../components/Card'
 import './Homepage.css'
 
@@ -13,10 +13,14 @@ import compress from '../images/Coompressor.jpg'
 import rgb from '../images/rgb.jpg'
 
 
+
 export default function Homepage() {
+
+
 
   return (
     <>
+
       <div className='home-container'><h1>Roberto Rodriguez</h1><h2>Projects and Work Portfolio</h2></div>
       <div className='card-stuff'>
         <Card Title={"Car Front Grill"}

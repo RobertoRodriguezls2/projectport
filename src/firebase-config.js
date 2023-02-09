@@ -29,14 +29,9 @@ const firebaseConfig = {
 };
 
 
-// Initialize Firebase
+
 const app = initializeApp(firebaseConfig);
 export const auth = getAuth(app);
-
-// useEffect(() => {
-//   // Fetching Data on Initial Load
-//   getImg()
-// },[])
 
 
 export default app;
